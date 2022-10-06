@@ -1,1 +1,1 @@
-script that creates symbol link
+copies all html files
