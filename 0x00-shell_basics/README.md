@@ -1,1 +1,1 @@
-this changes dir from a working one to home dir
+a script to list files in long format
