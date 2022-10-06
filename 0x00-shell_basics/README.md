@@ -1,1 +1,1 @@
-to move file
+script to delete file
