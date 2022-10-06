@@ -1,1 +1,1 @@
-prints type of file
+script that creates symbol link
