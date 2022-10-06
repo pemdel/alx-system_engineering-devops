@@ -1,1 +1,1 @@
-script to delete file
+to delete directory
