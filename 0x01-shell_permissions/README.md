@@ -1,1 +1,1 @@
-to change effective username
+prints all the groups of the current user
