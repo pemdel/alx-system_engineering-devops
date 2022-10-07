@@ -1,1 +1,1 @@
-changes owership of a file
+a scripts that creates an empty file
