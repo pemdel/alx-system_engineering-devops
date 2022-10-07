@@ -1,1 +1,1 @@
-this script sets permission to given file mode
+this script sets mode to be the same as another file 
