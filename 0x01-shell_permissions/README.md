@@ -1,1 +1,1 @@
-a scripts that creates an empty file
+a script that execute the permission of the file owner
