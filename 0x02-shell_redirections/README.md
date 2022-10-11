@@ -1,1 +1,1 @@
-a script that the displaysthe  the number of lines that contain the pattern “bin” in the file
+this is a script that displays  lines containing the pattern “root” and 3 lines after them in the file 
