@@ -1,1 +1,1 @@
-a script that displays  all lines of a file begining with a letter
+a script that replaces all characters A and c from input to Z and e respectively
