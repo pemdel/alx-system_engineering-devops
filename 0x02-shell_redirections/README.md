@@ -1,1 +1,1 @@
-a script that displays  the first 10 lines of a file 
+a script that displays the third line of a file
