@@ -1,1 +1,1 @@
-Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+a script that displays  all lines of a file begining with a letter
