@@ -1,1 +1,1 @@
-a script that displays the content of two files
+a script that displays the last ten lines of a file
