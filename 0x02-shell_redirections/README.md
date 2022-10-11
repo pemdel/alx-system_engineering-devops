@@ -1,1 +1,1 @@
- script that creates a file with a specific name
+a script that creates a file that has the result of another command
